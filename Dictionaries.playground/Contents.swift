@@ -1,3 +1,5 @@
+//Dictionaries are extremely useful! 
+
 let airports = [
     "YYZ": "Toronto Pearson",
     "DUB": "Dublin",
